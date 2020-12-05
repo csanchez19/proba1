@@ -4,5 +4,10 @@
 
 void main()
 {
+    HelloWorld();
+}
+
+void HelloWorld()
+{
     printf("Hello World!");
 }
